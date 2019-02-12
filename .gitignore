@@ -1,0 +1,21 @@
+.idea/
+
+## server
+/server/node_modules
+/server/dist
+/server/npm-debug.log
+
+## client
+# compiled output
+/dist
+/tmp
+
+# dependencies
+/node_modules
+
+# misc
+/npm-debug.log
+
+# e2e
+/e2e/*.js
+/e2e/*.map
